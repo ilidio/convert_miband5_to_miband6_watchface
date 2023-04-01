@@ -1,0 +1,1 @@
+This is the folder where all bin files are copied to

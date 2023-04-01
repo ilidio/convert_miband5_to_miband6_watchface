@@ -1,0 +1,1580 @@
+Debug|Opening watch face 'infograph_spanish_white_2-97515-a7b34ff2c5.bin'
+Debug|Reading parameters...
+Trace|Reading header...
+Trace|Header was read:
+Trace|Signature: UIHH, Unknown: 16777215, ParametersSize: 75, IsValid: True
+Trace|Reading parameter offsets...
+Trace|Parameter offsets were read from file
+Trace|Reading parameters descriptor...
+Trace|1 (0A): 5 bytes
+Trace|    1 (08): 555 (22B)
+Trace|    2 (10): 111 (6F)
+Trace|Parameters descriptor was read:
+Trace|ParametrsTableLength: 555, ImagesCount: 111
+Trace|Reading parameters locations...
+Trace|2 (12): 4 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 32 (20)
+Trace|3 (1A): 4 bytes
+Trace|    1 (08): 32 (20)
+Trace|    2 (10): 46 (2E)
+Trace|4 (22): 4 bytes
+Trace|    1 (08): 78 (4E)
+Trace|    2 (10): 50 (32)
+Trace|5 (2A): 5 bytes
+Trace|    1 (08): 128 (80)
+Trace|    2 (10): 81 (51)
+Trace|7 (3A): 5 bytes
+Trace|    1 (08): 209 (D1)
+Trace|    2 (10): 74 (4A)
+Trace|8 (42): 5 bytes
+Trace|    1 (08): 283 (11B)
+Trace|    2 (10): 30 (1E)
+Trace|9 (4A): 5 bytes
+Trace|    1 (08): 313 (139)
+Trace|    2 (10): 10 (0A)
+Trace|10 (52): 6 bytes
+Trace|    1 (08): 323 (143)
+Trace|    2 (10): 137 (89)
+Trace|12 (62): 5 bytes
+Trace|    1 (08): 460 (1CC)
+Trace|    2 (10): 39 (27)
+Trace|14 (72): 5 bytes
+Trace|    1 (08): 499 (1F3)
+Trace|    2 (10): 56 (38)
+Trace|Watch face parameters locations were read:
+Trace|Reading descriptor for parameter 2
+Trace|Descriptor offset: 0, Descriptor length: 32
+Trace|Parsing descriptor for parameter 2...
+Trace|1 (0A): 6 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 0 (00)
+Trace|    3 (18): 0 (00)
+Trace|3 (1A): 6 bytes
+Trace|    1 (08): 18 (12)
+Trace|    2 (10): 17 (11)
+Trace|    3 (18): 110 (6E)
+Trace|4 (22): 6 bytes
+Trace|    1 (08): 18 (12)
+Trace|    2 (10): 17 (11)
+Trace|    3 (18): 110 (6E)
+Trace|5 (2A): 6 bytes
+Trace|    1 (08): 18 (12)
+Trace|    2 (10): 17 (11)
+Trace|    3 (18): 110 (6E)
+Trace|Reading descriptor for parameter 3
+Trace|Descriptor offset: 32, Descriptor length: 46
+Trace|Parsing descriptor for parameter 3...
+Trace|1 (0A): 20 bytes
+Trace|    1 (0A): 8 bytes
+Trace|        1 (08): 39 (27)
+Trace|        2 (10): 89 (59)
+Trace|        3 (18): 32 (20)
+Trace|        4 (20): 3 (03)
+Trace|    2 (12): 8 bytes
+Trace|        1 (08): 50 (32)
+Trace|        2 (10): 89 (59)
+Trace|        3 (18): 32 (20)
+Trace|        4 (20): 10 (0A)
+Trace|2 (12): 20 bytes
+Trace|    1 (0A): 8 bytes
+Trace|        1 (08): 65 (41)
+Trace|        2 (10): 89 (59)
+Trace|        3 (18): 32 (20)
+Trace|        4 (20): 6 (06)
+Trace|    2 (12): 8 bytes
+Trace|        1 (08): 76 (4C)
+Trace|        2 (10): 89 (59)
+Trace|        3 (18): 32 (20)
+Trace|        4 (20): 10 (0A)
+Trace|11 (58): 0 (00)
+Trace|Reading descriptor for parameter 4
+Trace|Descriptor offset: 78, Descriptor length: 50
+Trace|Parsing descriptor for parameter 4...
+Trace|1 (0A): 21 bytes
+Trace|    1 (0A): 19 bytes
+Trace|        1 (08): 1 (01)
+Trace|        2 (10): 274 (112)
+Trace|        3 (18): 0 (00)
+Trace|        4 (20): 0 (00)
+Trace|        5 (28): 2 (02)
+Trace|        6 (30): 1 (01)
+Trace|        7 (38): 0 (00)
+Trace|        8 (40): 80 (50)
+Trace|        9 (48): 10 (0A)
+Trace|4 (22): 23 bytes
+Trace|    1 (0A): 19 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 274 (112)
+Trace|        3 (18): 124 (7C)
+Trace|        4 (20): 0 (00)
+Trace|        5 (28): 4 (04)
+Trace|        6 (30): 1 (01)
+Trace|        7 (38): 0 (00)
+Trace|        8 (40): 90 (5A)
+Trace|        9 (48): 10 (0A)
+Trace|    3 (18): 11 (0B)
+Trace|7 (38): 0 (00)
+Trace|Reading descriptor for parameter 5
+Trace|Descriptor offset: 128, Descriptor length: 81
+Trace|Parsing descriptor for parameter 5...
+Trace|1 (0A): 49 bytes
+Trace|    1 (0A): 43 bytes
+Trace|        2 (12): 9 bytes
+Trace|            1 (08): 73 (49)
+Trace|            2 (10): 142 (8E)
+Trace|            3 (18): 68 (44)
+Trace|            4 (20): 12 (0C)
+Trace|        3 (1A): 9 bytes
+Trace|            1 (08): 73 (49)
+Trace|            2 (10): 142 (8E)
+Trace|            3 (18): 68 (44)
+Trace|            4 (20): 12 (0C)
+Trace|        4 (22): 19 bytes
+Trace|            1 (08): 47 (2F)
+Trace|            2 (10): 190 (BE)
+Trace|            3 (18): 0 (00)
+Trace|            4 (20): 0 (00)
+Trace|            5 (28): 4 (04)
+Trace|            6 (30): 0 (00)
+Trace|            7 (38): 0 (00)
+Trace|            8 (40): 100 (64)
+Trace|            9 (48): 10 (0A)
+Trace|    4 (20): 1 (01)
+Trace|    5 (28): 1 (01)
+Trace|4 (22): 8 bytes
+Trace|    1 (08): 76 (4C)
+Trace|    2 (10): 11 (0B)
+Trace|    3 (18): 25 (19)
+Trace|    4 (20): 7 (07)
+Trace|5 (2A): 8 bytes
+Trace|    1 (08): 76 (4C)
+Trace|    2 (10): 11 (0B)
+Trace|    3 (18): 11 (0B)
+Trace|    4 (20): 7 (07)
+Trace|6 (32): 8 bytes
+Trace|    1 (08): 76 (4C)
+Trace|    2 (10): 11 (0B)
+Trace|    3 (18): 18 (12)
+Trace|    4 (20): 7 (07)
+Trace|Reading descriptor for parameter 7
+Trace|Descriptor offset: 209, Descriptor length: 74
+Trace|Parsing descriptor for parameter 7...
+Trace|3 (1A): 72 bytes
+Trace|    1 (08): 52 (34)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 231 (E7)
+Trace|Reading descriptor for parameter 8
+Trace|Descriptor offset: 283, Descriptor length: 30
+Trace|Parsing descriptor for parameter 8...
+Trace|1 (0A): 8 bytes
+Trace|    1 (0A): 4 bytes
+Trace|        1 (08): 48 (30)
+Trace|        2 (10): 4 (04)
+Trace|    2 (10): 2 (02)
+Trace|2 (12): 8 bytes
+Trace|    1 (0A): 4 bytes
+Trace|        1 (08): 59 (3B)
+Trace|        2 (10): 4 (04)
+Trace|    3 (18): 1 (01)
+Trace|3 (1A): 8 bytes
+Trace|    1 (0A): 4 bytes
+Trace|        1 (08): 70 (46)
+Trace|        2 (10): 4 (04)
+Trace|    2 (10): 3 (03)
+Trace|Reading descriptor for parameter 9
+Trace|Descriptor offset: 313, Descriptor length: 10
+Trace|Parsing descriptor for parameter 9...
+Trace|2 (12): 8 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 16 (10)
+Trace|    3 (18): 42 (2A)
+Trace|    4 (20): 10 (0A)
+Trace|Reading descriptor for parameter 10
+Trace|Descriptor offset: 323, Descriptor length: 137
+Trace|Parsing descriptor for parameter 10...
+Trace|1 (0A): 62 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 11447982 (AEAEAE)
+Trace|    3 (1A): 5 bytes
+Trace|        1 (08): 63 (3F)
+Trace|        2 (10): 148 (94)
+Trace|    4 (22): 13 bytes
+Trace|        1 (08): 2 (02)
+Trace|        2 (10): -2 (FFFFFFFFFFFFFFFE)
+Trace|    4 (22): 13 bytes
+Trace|        1 (08): 38 (26)
+Trace|        2 (10): -2 (FFFFFFFFFFFFFFFE)
+Trace|    4 (22): 4 bytes
+Trace|        1 (08): 40 (28)
+Trace|        2 (10): 0 (00)
+Trace|    4 (22): 4 bytes
+Trace|        1 (08): 38 (26)
+Trace|        2 (10): 3 (03)
+Trace|    4 (22): 4 bytes
+Trace|        1 (08): 2 (02)
+Trace|        2 (10): 3 (03)
+Trace|2 (12): 71 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 11447982 (AEAEAE)
+Trace|    3 (1A): 5 bytes
+Trace|        1 (08): 63 (3F)
+Trace|        2 (10): 148 (94)
+Trace|    4 (22): 13 bytes
+Trace|        1 (08): 2 (02)
+Trace|        2 (10): -2 (FFFFFFFFFFFFFFFE)
+Trace|    4 (22): 13 bytes
+Trace|        1 (08): 62 (3E)
+Trace|        2 (10): -2 (FFFFFFFFFFFFFFFE)
+Trace|    4 (22): 4 bytes
+Trace|        1 (08): 64 (40)
+Trace|        2 (10): 0 (00)
+Trace|    4 (22): 4 bytes
+Trace|        1 (08): 62 (3E)
+Trace|        2 (10): 3 (03)
+Trace|    4 (22): 4 bytes
+Trace|        1 (08): 2 (02)
+Trace|        2 (10): 3 (03)
+Trace|    5 (2A): 7 bytes
+Trace|        1 (08): 58 (3A)
+Trace|        2 (10): 143 (8F)
+Trace|        3 (18): 67 (43)
+Trace|Reading descriptor for parameter 12
+Trace|Descriptor offset: 460, Descriptor length: 39
+Trace|Parsing descriptor for parameter 12...
+Trace|3 (1A): 37 bytes
+Trace|    1 (08): 62 (3E)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 66 (42)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 66 (42)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 66 (42)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 66 (42)
+Trace|        2 (10): 231 (E7)
+Trace|    2 (12): 5 bytes
+Trace|        1 (08): 66 (42)
+Trace|        2 (10): 231 (E7)
+Trace|Reading descriptor for parameter 14
+Trace|Descriptor offset: 499, Descriptor length: 56
+Trace|Parsing descriptor for parameter 14...
+Trace|1 (0A): 6 bytes
+Trace|    1 (08): 66 (42)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 4 (04)
+Trace|2 (12): 6 bytes
+Trace|    1 (08): 66 (42)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 5 (05)
+Trace|3 (1A): 6 bytes
+Trace|    1 (08): 66 (42)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 6 (06)
+Trace|4 (22): 6 bytes
+Trace|    1 (08): 66 (42)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 7 (07)
+Trace|5 (2A): 6 bytes
+Trace|    1 (08): 66 (42)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 8 (08)
+Trace|6 (32): 6 bytes
+Trace|    1 (08): 66 (42)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 9 (09)
+Trace|7 (3A): 6 bytes
+Trace|    1 (08): 66 (42)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 10 (0A)
+Trace|Reading resources offsets table with 111 elements (444 bytes)
+Debug|Reading 111 resources...
+Trace|Resource 0 offset: 1161, length: 74104...
+Debug|Reading resource 0...
+Trace|Color bit encoding: 8
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 126, Height: 294, RowLength: 252
+Trace|BPP: 16, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 1 offset: 75265, length: 316...
+Debug|Reading resource 1...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 10, Height: 10, RowLength: 30
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 2 offset: 75581, length: 316...
+Debug|Reading resource 2...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 10, Height: 10, RowLength: 30
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 3 offset: 75897, length: 316...
+Debug|Reading resource 3...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 10, Height: 10, RowLength: 30
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 4 offset: 76213, length: 6856...
+Debug|Reading resource 4...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 5 offset: 83069, length: 6856...
+Debug|Reading resource 5...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 6 offset: 89925, length: 6856...
+Debug|Reading resource 6...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 7 offset: 96781, length: 6856...
+Debug|Reading resource 7...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 8 offset: 103637, length: 6856...
+Debug|Reading resource 8...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 9 offset: 110493, length: 6856...
+Debug|Reading resource 9...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 10 offset: 117349, length: 6856...
+Debug|Reading resource 10...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 11 offset: 124205, length: 8020...
+Debug|Reading resource 11...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 12 offset: 132225, length: 8020...
+Debug|Reading resource 12...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 13 offset: 140245, length: 8020...
+Debug|Reading resource 13...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 14 offset: 148265, length: 8020...
+Debug|Reading resource 14...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 15 offset: 156285, length: 8020...
+Debug|Reading resource 15...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 16 offset: 164305, length: 8020...
+Debug|Reading resource 16...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 17 offset: 172325, length: 8020...
+Debug|Reading resource 17...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 18 offset: 180345, length: 8020...
+Debug|Reading resource 18...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 19 offset: 188365, length: 8020...
+Debug|Reading resource 19...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 20 offset: 196385, length: 8020...
+Debug|Reading resource 20...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 21 offset: 204405, length: 8020...
+Debug|Reading resource 21...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 22 offset: 212425, length: 8020...
+Debug|Reading resource 22...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 23 offset: 220445, length: 8020...
+Debug|Reading resource 23...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 24 offset: 228465, length: 8020...
+Debug|Reading resource 24...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 46, Height: 58, RowLength: 138
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 25 offset: 236485, length: 6856...
+Debug|Reading resource 25...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 26 offset: 243341, length: 6856...
+Debug|Reading resource 26...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 27 offset: 250197, length: 6856...
+Debug|Reading resource 27...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 28 offset: 257053, length: 6856...
+Debug|Reading resource 28...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 29 offset: 263909, length: 6856...
+Debug|Reading resource 29...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 30 offset: 270765, length: 6856...
+Debug|Reading resource 30...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 31 offset: 277621, length: 6856...
+Debug|Reading resource 31...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 32 offset: 284477, length: 520...
+Debug|Reading resource 32...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 33 offset: 284997, length: 520...
+Debug|Reading resource 33...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 34 offset: 285517, length: 520...
+Debug|Reading resource 34...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 35 offset: 286037, length: 520...
+Debug|Reading resource 35...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 36 offset: 286557, length: 520...
+Debug|Reading resource 36...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 37 offset: 287077, length: 520...
+Debug|Reading resource 37...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 38 offset: 287597, length: 520...
+Debug|Reading resource 38...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 39 offset: 288117, length: 520...
+Debug|Reading resource 39...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 40 offset: 288637, length: 520...
+Debug|Reading resource 40...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 41 offset: 289157, length: 520...
+Debug|Reading resource 41...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 12, Height: 14, RowLength: 36
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 42 offset: 289677, length: 9376...
+Debug|Reading resource 42...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 43 offset: 299053, length: 9376...
+Debug|Reading resource 43...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 44 offset: 308429, length: 9376...
+Debug|Reading resource 44...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 45 offset: 317805, length: 9376...
+Debug|Reading resource 45...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 46 offset: 327181, length: 9376...
+Debug|Reading resource 46...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 47 offset: 336557, length: 9376...
+Debug|Reading resource 47...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 48 offset: 345933, length: 9376...
+Debug|Reading resource 48...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 49 offset: 355309, length: 9376...
+Debug|Reading resource 49...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 50 offset: 364685, length: 9376...
+Debug|Reading resource 50...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 51 offset: 374061, length: 9376...
+Debug|Reading resource 51...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 52, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 52 offset: 383437, length: 6856...
+Debug|Reading resource 52...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 53 offset: 390293, length: 6856...
+Debug|Reading resource 53...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 54 offset: 397149, length: 6856...
+Debug|Reading resource 54...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 55 offset: 404005, length: 6856...
+Debug|Reading resource 55...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 56 offset: 410861, length: 6856...
+Debug|Reading resource 56...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 57 offset: 417717, length: 6856...
+Debug|Reading resource 57...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 58 offset: 424573, length: 6856...
+Debug|Reading resource 58...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 59 offset: 431429, length: 6856...
+Debug|Reading resource 59...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 60 offset: 438285, length: 6856...
+Debug|Reading resource 60...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 61 offset: 445141, length: 6856...
+Debug|Reading resource 61...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 62 offset: 451997, length: 6856...
+Debug|Reading resource 62...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 63 offset: 458853, length: 6856...
+Debug|Reading resource 63...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 64 offset: 465709, length: 6856...
+Debug|Reading resource 64...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 65 offset: 472565, length: 6856...
+Debug|Reading resource 65...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 66 offset: 479421, length: 6856...
+Debug|Reading resource 66...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 60, Height: 38, RowLength: 180
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 67 offset: 486277, length: 316...
+Debug|Reading resource 67...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 10, Height: 10, RowLength: 30
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 68 offset: 486593, length: 1528...
+Debug|Reading resource 68...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 69 offset: 488121, length: 1528...
+Debug|Reading resource 69...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 70 offset: 489649, length: 1528...
+Debug|Reading resource 70...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 71 offset: 491177, length: 1528...
+Debug|Reading resource 71...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 72 offset: 492705, length: 1528...
+Debug|Reading resource 72...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 73 offset: 494233, length: 1528...
+Debug|Reading resource 73...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 74 offset: 495761, length: 1528...
+Debug|Reading resource 74...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 75 offset: 497289, length: 1528...
+Debug|Reading resource 75...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 76 offset: 498817, length: 1528...
+Debug|Reading resource 76...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 77 offset: 500345, length: 1528...
+Debug|Reading resource 77...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 78 offset: 501873, length: 1528...
+Debug|Reading resource 78...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 79 offset: 503401, length: 1528...
+Debug|Reading resource 79...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 12, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 80 offset: 504929, length: 340...
+Debug|Reading resource 80...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 81 offset: 505269, length: 340...
+Debug|Reading resource 81...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 82 offset: 505609, length: 340...
+Debug|Reading resource 82...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 83 offset: 505949, length: 340...
+Debug|Reading resource 83...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 84 offset: 506289, length: 340...
+Debug|Reading resource 84...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 85 offset: 506629, length: 340...
+Debug|Reading resource 85...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 86 offset: 506969, length: 340...
+Debug|Reading resource 86...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 87 offset: 507309, length: 340...
+Debug|Reading resource 87...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 88 offset: 507649, length: 340...
+Debug|Reading resource 88...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 89 offset: 507989, length: 340...
+Debug|Reading resource 89...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 90 offset: 508329, length: 340...
+Debug|Reading resource 90...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 91 offset: 508669, length: 340...
+Debug|Reading resource 91...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 92 offset: 509009, length: 340...
+Debug|Reading resource 92...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 93 offset: 509349, length: 340...
+Debug|Reading resource 93...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 94 offset: 509689, length: 340...
+Debug|Reading resource 94...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 95 offset: 510029, length: 340...
+Debug|Reading resource 95...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 96 offset: 510369, length: 340...
+Debug|Reading resource 96...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 97 offset: 510709, length: 340...
+Debug|Reading resource 97...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 98 offset: 511049, length: 340...
+Debug|Reading resource 98...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 99 offset: 511389, length: 340...
+Debug|Reading resource 99...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 9, Height: 12, RowLength: 27
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 100 offset: 511729, length: 928...
+Debug|Reading resource 100...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 101 offset: 512657, length: 928...
+Debug|Reading resource 101...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 102 offset: 513585, length: 928...
+Debug|Reading resource 102...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 103 offset: 514513, length: 928...
+Debug|Reading resource 103...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 104 offset: 515441, length: 928...
+Debug|Reading resource 104...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 105 offset: 516369, length: 928...
+Debug|Reading resource 105...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 106 offset: 517297, length: 928...
+Debug|Reading resource 106...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 107 offset: 518225, length: 928...
+Debug|Reading resource 107...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 108 offset: 519153, length: 928...
+Debug|Reading resource 108...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 109 offset: 520081, length: 928...
+Debug|Reading resource 109...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 19, RowLength: 48
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 110 offset: 521009, length: 37816...
+Debug|Reading resource 110...
+Trace|Color bit encoding: 8
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 90, Height: 210, RowLength: 180
+Trace|BPP: 16, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Debug|Parsing parameters...
+Trace|2 'Background'
+Trace|2.1 'Image'
+Trace|2.1.1 'X': 0
+Trace|2.1.2 'Y': 0
+Trace|2.1.3 'ImageIndex': 0
+Trace|2.3 'Preview1'
+Trace|2.3.1 'X': 18
+Trace|2.3.2 'Y': 17
+Trace|2.3.3 'ImageIndex': 110
+Trace|2.4 'Preview2'
+Trace|2.4.1 'X': 18
+Trace|2.4.2 'Y': 17
+Trace|2.4.3 'ImageIndex': 110
+Trace|2.5 'Preview3'
+Trace|2.5.1 'X': 18
+Trace|2.5.2 'Y': 17
+Trace|2.5.3 'ImageIndex': 110
+Trace|3 'Time'
+Trace|3.1 'Hours'
+Trace|3.1.1 'Tens'
+Trace|3.1.1.1 'X': 39
+Trace|3.1.1.2 'Y': 89
+Trace|3.1.1.3 'ImageIndex': 32
+Trace|3.1.1.4 'ImagesCount': 3
+Trace|3.1.2 'Ones'
+Trace|3.1.2.1 'X': 50
+Trace|3.1.2.2 'Y': 89
+Trace|3.1.2.3 'ImageIndex': 32
+Trace|3.1.2.4 'ImagesCount': 10
+Trace|3.2 'Minutes'
+Trace|3.2.1 'Tens'
+Trace|3.2.1.1 'X': 65
+Trace|3.2.1.2 'Y': 89
+Trace|3.2.1.3 'ImageIndex': 32
+Trace|3.2.1.4 'ImagesCount': 6
+Trace|3.2.2 'Ones'
+Trace|3.2.2.1 'X': 76
+Trace|3.2.2.2 'Y': 89
+Trace|3.2.2.3 'ImageIndex': 32
+Trace|3.2.2.4 'ImagesCount': 10
+Trace|3.11 'UnknownV11': 0
+Trace|4 'Activity'
+Trace|4.1 'Steps'
+Trace|4.1.1 'Number'
+Trace|4.1.1.1 'TopLeftX': 1
+Trace|4.1.1.2 'TopLeftY': 274
+Trace|4.1.1.3 'BottomRightX': 0
+Trace|4.1.1.4 'BottomRightY': 0
+Trace|4.1.1.5 'Alignment': 2
+Trace|4.1.1.6 'SpacingX': 1
+Trace|4.1.1.7 'SpacingY': 0
+Trace|4.1.1.8 'ImageIndex': 80
+Trace|4.1.1.9 'ImagesCount': 10
+Trace|4.4 'Pulse'
+Trace|4.4.1 'Number'
+Trace|4.4.1.1 'TopLeftX': 0
+Trace|4.4.1.2 'TopLeftY': 274
+Trace|4.4.1.3 'BottomRightX': 124
+Trace|4.4.1.4 'BottomRightY': 0
+Trace|4.4.1.5 'Alignment': 4
+Trace|4.4.1.6 'SpacingX': 1
+Trace|4.4.1.7 'SpacingY': 0
+Trace|4.4.1.8 'ImageIndex': 90
+Trace|4.4.1.9 'ImagesCount': 10
+Trace|4.4.3 'NoDataImageIndex': 11
+Trace|4.7 'UnknownV7': 0
+Trace|5 'Date'
+Trace|5.1 'MonthAndDayAndYear'
+Trace|5.1.1 'Separate'
+Trace|5.1.1.2 'MonthsEN'
+Trace|5.1.1.2.1 'X': 73
+Trace|5.1.1.2.2 'Y': 142
+Trace|5.1.1.2.3 'ImageIndex': 68
+Trace|5.1.1.2.4 'ImagesCount': 12
+Trace|5.1.1.3 'MonthsCN'
+Trace|5.1.1.3.1 'X': 73
+Trace|5.1.1.3.2 'Y': 142
+Trace|5.1.1.3.3 'ImageIndex': 68
+Trace|5.1.1.3.4 'ImagesCount': 12
+Trace|5.1.1.4 'Day'
+Trace|5.1.1.4.1 'TopLeftX': 47
+Trace|5.1.1.4.2 'TopLeftY': 190
+Trace|5.1.1.4.3 'BottomRightX': 0
+Trace|5.1.1.4.4 'BottomRightY': 0
+Trace|5.1.1.4.5 'Alignment': 4
+Trace|5.1.1.4.6 'SpacingX': 0
+Trace|5.1.1.4.7 'SpacingY': 0
+Trace|5.1.1.4.8 'ImageIndex': 100
+Trace|5.1.1.4.9 'ImagesCount': 10
+Trace|5.1.4 'TwoDigitsMonth': 1
+Trace|5.1.5 'TwoDigitsDay': 1
+Trace|5.4 'ENWeekDays'
+Trace|5.4.1 'X': 76
+Trace|5.4.2 'Y': 11
+Trace|5.4.3 'ImageIndex': 25
+Trace|5.4.4 'ImagesCount': 7
+Trace|5.5 'CNWeekDays'
+Trace|5.5.1 'X': 76
+Trace|5.5.2 'Y': 11
+Trace|5.5.3 'ImageIndex': 11
+Trace|5.5.4 'ImagesCount': 7
+Trace|5.6 'CN2WeekDays'
+Trace|5.6.1 'X': 76
+Trace|5.6.2 'Y': 11
+Trace|5.6.3 'ImageIndex': 18
+Trace|5.6.4 'ImagesCount': 7
+Trace|7 'StepsProgress'
+Trace|7.3 'Linear'
+Trace|7.3.1 'StartImageIndex': 52
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|7.3.2 'Segments'
+Trace|7.3.2.1 'X': 0
+Trace|7.3.2.2 'Y': 231
+Trace|8 'Status'
+Trace|8.1 'DoNotDisturb'
+Trace|8.1.1 'Coordinates'
+Trace|8.1.1.1 'X': 48
+Trace|8.1.1.2 'Y': 4
+Trace|8.1.2 'ImageIndexOn': 2
+Trace|8.2 'Lock'
+Trace|8.2.1 'Coordinates'
+Trace|8.2.1.1 'X': 59
+Trace|8.2.1.2 'Y': 4
+Trace|8.2.3 'ImageIndexOff': 1
+Trace|8.3 'Bluetooth'
+Trace|8.3.1 'Coordinates'
+Trace|8.3.1.1 'X': 70
+Trace|8.3.1.2 'Y': 4
+Trace|8.3.2 'ImageIndexOn': 3
+Trace|9 'Battery'
+Trace|9.2 'BatteryIcon'
+Trace|9.2.1 'X': 0
+Trace|9.2.2 'Y': 16
+Trace|9.2.3 'ImageIndex': 42
+Trace|9.2.4 'ImagesCount': 10
+Trace|10 'AnalogDialFace'
+Trace|10.1 'Hours'
+Trace|10.1.1 'OnlyBorder': 0
+Trace|10.1.2 'Color': 11447982
+Trace|10.1.3 'Center'
+Trace|10.1.3.1 'X': 63
+Trace|10.1.3.2 'Y': 148
+Trace|10.1.4 'Shape'
+Trace|10.1.4.1 'X': 2
+Trace|10.1.4.2 'Y': -2
+Trace|10.1.4 'Shape'
+Trace|10.1.4.1 'X': 38
+Trace|10.1.4.2 'Y': -2
+Trace|10.1.4 'Shape'
+Trace|10.1.4.1 'X': 40
+Trace|10.1.4.2 'Y': 0
+Trace|10.1.4 'Shape'
+Trace|10.1.4.1 'X': 38
+Trace|10.1.4.2 'Y': 3
+Trace|10.1.4 'Shape'
+Trace|10.1.4.1 'X': 2
+Trace|10.1.4.2 'Y': 3
+Trace|10.2 'Minutes'
+Trace|10.2.1 'OnlyBorder': 0
+Trace|10.2.2 'Color': 11447982
+Trace|10.2.3 'Center'
+Trace|10.2.3.1 'X': 63
+Trace|10.2.3.2 'Y': 148
+Trace|10.2.4 'Shape'
+Trace|10.2.4.1 'X': 2
+Trace|10.2.4.2 'Y': -2
+Trace|10.2.4 'Shape'
+Trace|10.2.4.1 'X': 62
+Trace|10.2.4.2 'Y': -2
+Trace|10.2.4 'Shape'
+Trace|10.2.4.1 'X': 64
+Trace|10.2.4.2 'Y': 0
+Trace|10.2.4 'Shape'
+Trace|10.2.4.1 'X': 62
+Trace|10.2.4.2 'Y': 3
+Trace|10.2.4 'Shape'
+Trace|10.2.4.1 'X': 2
+Trace|10.2.4.2 'Y': 3
+Trace|10.2.5 'CenterImage'
+Trace|10.2.5.1 'X': 58
+Trace|10.2.5.2 'Y': 143
+Trace|10.2.5.3 'ImageIndex': 67
+Trace|12 'HeartProgress'
+Trace|12.3 'Linear'
+Trace|12.3.1 'StartImageIndex': 62
+Trace|12.3.2 'Segments'
+Trace|12.3.2.1 'X': 66
+Trace|12.3.2.2 'Y': 231
+Trace|12.3.2 'Segments'
+Trace|12.3.2.1 'X': 66
+Trace|12.3.2.2 'Y': 231
+Trace|12.3.2 'Segments'
+Trace|12.3.2.1 'X': 66
+Trace|12.3.2.2 'Y': 231
+Trace|12.3.2 'Segments'
+Trace|12.3.2.1 'X': 66
+Trace|12.3.2.2 'Y': 231
+Trace|12.3.2 'Segments'
+Trace|12.3.2.1 'X': 66
+Trace|12.3.2.2 'Y': 231
+Trace|14 'WeekDaysIcons'
+Trace|14.1 'Monday'
+Trace|14.1.1 'X': 66
+Trace|14.1.2 'Y': 30
+Trace|14.1.3 'ImageIndex': 4
+Trace|14.2 'Tuesday'
+Trace|14.2.1 'X': 66
+Trace|14.2.2 'Y': 30
+Trace|14.2.3 'ImageIndex': 5
+Trace|14.3 'Wednesday'
+Trace|14.3.1 'X': 66
+Trace|14.3.2 'Y': 30
+Trace|14.3.3 'ImageIndex': 6
+Trace|14.4 'Thursday'
+Trace|14.4.1 'X': 66
+Trace|14.4.2 'Y': 30
+Trace|14.4.3 'ImageIndex': 7
+Trace|14.5 'Friday'
+Trace|14.5.1 'X': 66
+Trace|14.5.2 'Y': 30
+Trace|14.5.3 'ImageIndex': 8
+Trace|14.6 'Saturday'
+Trace|14.6.1 'X': 66
+Trace|14.6.2 'Y': 30
+Trace|14.6.3 'ImageIndex': 9
+Trace|14.7 'Sunday'
+Trace|14.7.1 'X': 66
+Trace|14.7.2 'Y': 30
+Trace|14.7.3 'ImageIndex': 10
+Debug|Generating previews...
+Debug|Exporting resources to 'infograph_spanish_white_2-97515-a7b34ff2c5'
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0000.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0001.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0002.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0003.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0004.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0005.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0006.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0007.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0008.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0009.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0010.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0011.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0012.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0013.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0014.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0015.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0016.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0017.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0018.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0019.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0020.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0021.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0022.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0023.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0024.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0025.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0026.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0027.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0028.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0029.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0030.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0031.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0032.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0033.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0034.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0035.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0036.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0037.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0038.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0039.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0040.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0041.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0042.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0043.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0044.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0045.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0046.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0047.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0048.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0049.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0050.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0051.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0052.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0053.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0054.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0055.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0056.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0057.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0058.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0059.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0060.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0061.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0062.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0063.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0064.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0065.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0066.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0067.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0068.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0069.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0070.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0071.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0072.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0073.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0074.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0075.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0076.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0077.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0078.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0079.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0080.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0081.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0082.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0083.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0084.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0085.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0086.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0087.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0088.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0089.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0090.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0091.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0092.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0093.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0094.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0095.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0096.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0097.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0098.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0099.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0100.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0101.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0102.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0103.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0104.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0105.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0106.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0107.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0108.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0109.png...
+Debug|Extracting infograph_spanish_white_2-97515-a7b34ff2c5\0110.png...
+Debug|Exporting config...
